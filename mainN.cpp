@@ -8,8 +8,8 @@ int main()
 	cin >> n;
 
 	for (int i = 1; i < n; i++)
-		cin >> b;	// the number before last one
-	cin >> a;		// the last number
+		cin >> b;	// second last number
+	cin >> a;		// last number
 	
 	if (a == 0)
 		cout << "UP" << endl;
