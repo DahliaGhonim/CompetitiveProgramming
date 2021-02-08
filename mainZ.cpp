@@ -12,9 +12,8 @@ int main()
 	cin.ignore();
 	cin >> setw(2) >> m;
 
-	int start = (h - 5) * 60 + m;
-	int end = start + ta;
-
+	int start = (h - 5) * 60 + m;	// the number of minutes passed since 5:00 AM when the driver Simon starts
+	int end = start + ta;		// the number of minutes passed since 5:00 AM when the driver Simon ends
 	int count = 0;
 
 	for (int bstart = 0; bstart < 1140; bstart += b)
