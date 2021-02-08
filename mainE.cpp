@@ -2,7 +2,6 @@
 #include <iostream>
 using namespace std;
 
-
 int main()
 {
 	int n, x, count = 0;
