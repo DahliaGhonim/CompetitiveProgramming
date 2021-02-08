@@ -9,7 +9,7 @@ int main()
 
 	cout << n / 2 << endl;
 
-	for (int i = 0; i < n / 2 - 1; i++)
+	for (int i = 1; i < n / 2; i++)
 		cout << 2 << " ";
 
 	if (n % 2 == 0)
