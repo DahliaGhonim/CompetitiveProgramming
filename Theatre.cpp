@@ -4,10 +4,8 @@ using namespace std;
 
 int main()
 {
-	int n, m, a;
+	int n, m, a, count1, count2;
 	cin >> n >> m >> a;
-
-	int count1, count2;
 
 	count1 = n / a;
 	if (n % a != 0)
