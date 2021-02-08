@@ -2,6 +2,7 @@
 #include <iostream>
 using namespace std;
 
+
 int main()
 {
 	int n, num, min = INT_MAX;
