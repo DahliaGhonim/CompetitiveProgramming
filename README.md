@@ -1,4 +1,4 @@
-# Pupils-Plan-Contest-2
+# CompetitiveProgramming
 
 This repository contains solutions to the following contests: 
 
